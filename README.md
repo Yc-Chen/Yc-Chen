@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as Solution Architect at Philips in The Netherlands.
-- 💬 Ask me about real world A.I.
+- 💬 Ask me about real world A.I. (Checkout my LinkedIn posts!)
 - 🌱 I’m currently learning blockchain technologies.
 
 My skills:
