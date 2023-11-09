@@ -1,4 +1,4 @@
-### Hi 👋, I'm Yicong (pronounced as 'ytson')
+### Hi 👋, I'm Yicong (say 'ytson')
 
 <!--
 **Yc-Chen/Yc-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as Solution Architect at Philips in The Netherlands.
 - 💬 Ask me about real world A.I. (Checkout my LinkedIn posts!)
 - 🌱 I’m currently learning blockchain technologies.
-
-My skills:
 
 ```mermaid
 pie title My Skills
