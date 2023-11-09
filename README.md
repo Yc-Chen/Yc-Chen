@@ -24,7 +24,7 @@ My skills:
 ```mermaid
 pie title My Skills
     "Fullstack(Vue.js, NestJS)" : 60
+    "A.I. (pytorch, FastAPI)" : 20
     "User Experience" : 10
     "Cloud Infrastructure" : 10
-    "A.I. (pytorch)" : 20
 ```
