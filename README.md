@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ```mermaid
 pie title My Skills
-    "Fullstack(Vue.js, NestJS)" : 60
+    "Fullstack(Vue.js, NestJS)" : 50
     "A.I. (pytorch, FastAPI)" : 20
+    "Cloud Infrastructure" : 20
     "User Experience" : 10
-    "Cloud Infrastructure" : 10
 ```
